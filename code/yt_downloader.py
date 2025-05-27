@@ -176,7 +176,11 @@ YouTube_videos_URLs = [
     "https://www.youtube.com/watch?v=iaNgco2oRUs",
     "https://www.youtube.com/watch?v=i4auYHXqWrk",
     "https://www.youtube.com/watch?v=tmjDyxbfaZU",
-    "https://www.youtube.com/watch?v=r4_Ob3MxXd0"
+    "https://www.youtube.com/watch?v=r4_Ob3MxXd0",
+    "https://www.youtube.com/watch?v=BthWzOAihkk",
+    "https://www.youtube.com/watch?v=QIJje6xGWJg",
+    "https://www.youtube.com/watch?v=MFgEj07lntA",
+    "https://www.youtube.com/watch?v=tGXnuFu2LHU"
 ]
 
 for index, song_url in enumerate( YouTube_videos_URLs ):
